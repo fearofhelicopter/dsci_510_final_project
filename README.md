@@ -16,3 +16,6 @@
 #### The original data format is JSON. 
 #### After requesting the API, the keywords are collected and converted into a data frame format and saved as CSV files.
 #### The collected keywords are make, model, price, trim, repair, total_price, and maintenance.
+#
+## Link to my GitHub: 
+#### https://github.com/fearofhelicopter/dsci510_project_cars
