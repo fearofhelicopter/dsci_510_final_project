@@ -25,4 +25,4 @@
 #### Car Price Increase Rate from 2021 to 2022 is the figure that shows the growth rate of the prices of different models.
 #### Car Price Increase Rate for Different Classes is the figure that shows the growth rate of different categories of car prices.
 ## Link to the GitHub repository: 
-#### https://github.com/fearofhelicopter/dsci510_project_cars
+#### https://github.com/fearofhelicopter/dsci_510_final_project
