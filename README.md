@@ -1,5 +1,8 @@
 # dsci510_project_cars
 
+### branch main: with clean data
+### branch withdata: with generated data
+
 ## Code files description:
 #### 1. data collect and apis.py: the code for connecting cars API and collecting the data.
 #### 2. main.py main code to run
