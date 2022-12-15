@@ -5,7 +5,6 @@ __pycache__/
 
 instance/
 
-.idea
 .pytest_cache/
 .coverage
 htmlcov/
@@ -20,3 +19,5 @@ vscode
 .log
 logs
 log
+
+.idea/
