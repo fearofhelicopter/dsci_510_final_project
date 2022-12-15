@@ -1,5 +1,0 @@
-Description of the figures and the findings:
-	Car Price Changes from 2021 to 2022 is the figure that shows the price changes of different models. The red line is the 2022 price, and the black line is the 2021 price. It can be found that the red line is mostly above the black line, indicating price increases.
-	Car Price Changes for Different Classes is the figure that shows the price changes for different categories of models. Compared with affordable and economical cars, the price of luxury cars changes very little.
-	Car Price Increase Rate from 2021 to 2022 is the figure that shows the growth rate of the prices of different models.
-	Car Price Increase Rate for Different Classes is the figure that shows the growth rate of different categories of car prices.
